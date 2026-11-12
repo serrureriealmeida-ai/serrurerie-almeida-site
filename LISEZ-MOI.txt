@@ -1,0 +1,27 @@
+SERRURERIE ALMEIDA - VERSION SEO
+
+Contenu du dossier :
+- index.html : page d’accueil optimisée
+- style.css : styles communs (design noir et or conservé)
+- serrurier-bourgoin-jallieu/ : page locale
+- ouverture-de-porte/ : page service
+- serrures-cylindres/ : page service
+- volets-roulants/ : page service
+- vitrerie-fenetres/ : page service
+- robots.txt et sitemap.xml : exploration et indexation
+
+MISE EN LIGNE VERCEL
+1. Sauvegardez votre version actuelle.
+2. Décompressez cette archive.
+3. Déployez le contenu du dossier (ne pas déployer le dossier parent vide).
+4. Vérifiez les URL sur le domaine après déploiement.
+5. Dans Google Search Console, envoyez https://serrurerie-almeida.fr/sitemap.xml.
+
+À VÉRIFIER AVANT PUBLICATION
+- Confirmer que chaque prestation affichée est bien proposée.
+- Confirmer les tarifs « à partir de » déjà présents sur la page d’accueil.
+- Confirmer les conditions de disponibilité 24h/24 et 7j/7 : le site indique que la disponibilité est à confirmer par téléphone.
+- Compléter les mentions légales et la politique de confidentialité avec les informations exactes de l’entreprise.
+- Vérifier les obligations d’information/devis applicables aux prestations de dépannage.
+
+Aucune certification, note d’avis, adresse de rue publique, horaire garanti ou marque distribuée n’a été inventé.
